@@ -11,8 +11,8 @@ A system that creates a 3D scene using objects synthesized from paper drawings a
 - [*Results*](https://github.com/sayhitosandy/2D-to-3D/tree/master/Final%20Submission/Outputs)
 
 ### Contributors: 
-- Akarsha Sehwag  @aksh98
-- Sanidhya Singal @sayhitosandy
+- Akarsha Sehwag  [@aksh98](https://github.com/aksh98)
+- Sanidhya Singal [@sayhitosandy](https://github.com/sayhitosandy)
 
 *References:*
 1. L. Feng, X. Yang and S. Xiao. "MagicToon: A 2D-to-3D creative cartoon modeling system with mobile AR." 2017 IEEE Virtual Reality (VR), Los Angeles, CA, 2017, pp. 195-204, doi: 10.1109/VR.2017.7892247
